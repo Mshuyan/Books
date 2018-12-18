@@ -11,6 +11,9 @@
 + [图解密码技术.pdf](http://disk.bymyself.club/Book/图解密码技术.pdf) 
 + [图解设计模式.pdf](http://disk.bymyself.club/Book/图解设计模式.pdf) 
 + [算法图解.pdf](http://disk.bymyself.club/Book/算法图解.pdf) 
++ 《重构改善既有代码逻辑》
++ 《七周七并发模型》
++ 《java8实战》
 
 ## 读后感
 
